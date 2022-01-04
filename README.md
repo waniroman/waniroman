@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @waniroman
 - 👀 I’m interested in AI,ML and Data Science
-- 🌱 I’m currently learning Python, DSA
+- 🌱 I’m currently learning Python, DSA, ML and AI
 - 💞️ I’m looking to collaborate on projects related to Python 
 - 📫 How to reach me: @WaniRoman
 
